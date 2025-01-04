@@ -1,0 +1,33 @@
+header{
+    background-color: rgb(27, 119, 42);
+    font-size: large;
+    border-radius: 30px;
+}
+
+header h1{
+    text-align: center;
+    color: bisque;
+}
+
+header footer{
+    padding: 1px;
+    
+}
+
+header footer h2 a{
+    color: aliceblue;
+}
+
+#sports h3{
+    background-color: rgb(33, 65, 33);
+    color: rgb(255, 255, 255);
+    border-radius: 30px;
+    text-align: center;
+}
+
+#economy h3{
+    background-color: rgb(33, 65, 33);
+    color: rgb(255, 255, 255);
+    border-radius: 30px;
+    text-align: center;
+}
